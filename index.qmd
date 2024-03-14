@@ -31,6 +31,15 @@ Acompanhando o crescimento do mercado de fundos imobiliários, pesquisadores tem
 
 Assim como qualquer tipo de ativo financeiro, os fundos imobiliários estão sujeitos a riscos inerentes tanto ao próprio mercado quanto a fatores macroeconômicos que variam de acordo com o país. Em uma análise bibliométrica sobre o tema, @teófilo2022 identificou indícios de de uma certa concentração sobre temas de artigos relacionados ao sentimento dos investidores e a análise de desempenho dos fundos quanto ao risco e retorno. Visto que esse tipo de análise já tem sido explorada amplamente na literatura, abre-se a oportunidade para investigar outros fatores que possam influenciar o desempenho dos fundos imobiliários, como por exemplo a influência de fatores macroeconômicos e influência de outras variáveis que geralmente não são consideradas em estudos sobre o tema como a popularidade dos fundos entre os investidores. 
 
-Considerando a importância do tema e a popularidade dos fundos imobiliários no Brasil e no mundo
+Considerando a importância do tema e a popularidade dos fundos imobiliários no Brasil e no mundo este trabalho tem como objetivo explorar as variáveis que influenciam os fundos de investimento imobiliário quanto ao seu desempenho e a sua relação com o crescimento do mercado ao longo do tempo com foco no efeito das variáveis macroeconômicas, popularidade e pagamento de dividendos como fatores críticos no desempenho ou retorno dos fundos.
+
+Para isso, este trabalho se propõe a desenvolver uma revisão sitemática da literatura usando o método PRISMA [@page2021] nas bases indexadas Web of Science, Scopus e Periódicos Capes. 
+
+Para alcançar os objetivos propostos, foram consideradas as seguintes perguntas de pesquisa: Como a distribuição de dividendos afeta os retornos? Como os fundos reagem a períodos de crise econômica? Como mudanças na economia afetam o desempenho? Como a popularidade é afetada pelo Youtube? Quais são as variáveis mais estudadas na literatura?
+
+## Metodologia 
+
+
+
 
 ## Referências
