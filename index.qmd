@@ -23,6 +23,14 @@ csl: apa.csl
 ```
 ## Introdução
 
-O mercado de fundos de investimento imobiliário no Brasil nos últimos anos tem apresentado um crescimento notável, tanto em relação ao número de novos fundos listados quanto em relação ao número de investidores. Isso fica evidente ao se analisar os números presentes nos relatórios mensais da B3, que denotam uma tendência positiva principalmente a partir de 2016 [@b32023]
+O mercado de fundos de investimento imobiliário no Brasil nos últimos anos tem apresentado um crescimento notável, tanto em relação ao número de novos fundos listados quanto em relação ao número de investidores. Isso fica evidente ao se analisar os números presentes nos relatórios mensais da B3, que denotam uma tendência positiva principalmente a partir de 2016 [@b32023]. Apesar de ter um nome diferente no Brasil os FIIs possuem características similares aos REITs (Real Estate Investment Trusts) norte-americanos, que são fundos de investimento imobiliário negociados em bolsa de valores, além disso, este tipo de instrumento financeiro é bastante popular em diversos países ao redor do mundo desde de sua criação em 1960 nos Estados Unidos através do REIT Act, assinado pelo presidente Dwight D. Eisenhower [@ahistor2012]. 
+
+Os FIIs foram criados em 1993 no Brasil e são regulamentados pela Comissão de Valores Mobiliários (CVM) que é o órgão responsável por regular e fiscalizar o mercado de capitais brasileiro. Assim como os REITs, os FIIs são fundos que em ativos imobiliários e que tem por característica principal a distribuição da maior parte de seus lucros aos cotistas e a isenção de imposto de renda sobre os rendimentos distribuídos. 
+
+Acompanhando o crescimento do mercado de fundos imobiliários, pesquisadores tem se interessado cada vez mais em investigar este tipo de ativo. Conforme apontado por @weise2017, o número de publicações sobre o tema apresentou um crescimento constante a partir do início dos anos 2000 o que vai de encontro aos apontamentos de @ahistor2012 que comenta sobre como os REITs se consolidaram como um instrumento financeiro popular e de grande interesse no mesmo período.
+
+Assim como qualquer tipo de ativo financeiro, os fundos imobiliários estão sujeitos a riscos inerentes tanto ao próprio mercado quanto a fatores macroeconômicos que variam de acordo com o país. Em uma análise bibliométrica sobre o tema, @teófilo2022 identificou indícios de de uma certa concentração sobre temas de artigos relacionados ao sentimento dos investidores e a análise de desempenho dos fundos quanto ao risco e retorno. Visto que esse tipo de análise já tem sido explorada amplamente na literatura, abre-se a oportunidade para investigar outros fatores que possam influenciar o desempenho dos fundos imobiliários, como por exemplo a influência de fatores macroeconômicos e influência de outras variáveis que geralmente não são consideradas em estudos sobre o tema como a popularidade dos fundos entre os investidores. 
+
+Considerando a importância do tema e a popularidade dos fundos imobiliários no Brasil e no mundo
 
 ## Referências
