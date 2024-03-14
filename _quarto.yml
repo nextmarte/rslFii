@@ -22,8 +22,8 @@ format:
     number-sections: false
     keep-tex: false
 
-# execute:
-  # freeze: auto
+execute:
+  freeze: auto
 
 crossref:
   fig-title: Figura   
