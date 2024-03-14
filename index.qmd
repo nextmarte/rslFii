@@ -1,0 +1,28 @@
+---
+title: |
+    \fontsize{12pt}{14pt}\selectfont Investigando Fatores Críticos no Desempenho de Fundos de Investimento Imobiliário
+authors:
+  - name: \fontsize{12pt}{14pt}\selectfont Marcus Antonio Cardoso Ramalho
+  - name: \fontsize{12pt}{14pt}\selectfont Ariel Levy
+    affiliation: Universidade Federal Fluminense
+
+bibliography: references.bib
+csl: apa.csl
+---
+
+\thispagestyle{fancy}
+
+```{=tex}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=black,      
+    urlcolor=black,
+    citecolor=black,
+}
+```
+## Introdução
+
+O mercado de fundos de investimento imobiliário no Brasil nos últimos anos tem apresentado um crescimento notável, tanto em relação ao número de novos fundos listados quanto em relação ao número de investidores. Isso fica evidente ao se analisar os números presentes nos relatórios mensais da B3, que denotam uma tendência positiva principalmente a partir de 2016 [@b32023]
+
+## Referências
