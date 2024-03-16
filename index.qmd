@@ -7,7 +7,7 @@ authors:
     affiliation: Universidade Federal Fluminense
 
 bibliography: references.bib
-csl: apa.csl
+csl: abnt.csl
 ---
 
 \thispagestyle{fancy}
