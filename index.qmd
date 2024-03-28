@@ -39,7 +39,12 @@ Para alcançar os objetivos propostos, foram consideradas as seguintes perguntas
 
 ## Metodologia 
 
-Este trabalho utiliza os princípios do método PRISMA, este método 
+Este trabalho utiliza os princípios do método PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses) que é uma metodologia criada para direcionar o desenvolvimento de revisões sistemáticas da literatura. Foi desenvolvido inicialmente para revisões de estudos clínicos, porém, tem sido adaptado para outras áreas do conhecimento [@page2021]. O método prescreve uma série de etapas que devem ser seguidas para garantir a qualidade e a transparência do processo de revisão da literatura.
+
+<!-- aqui elaborar mais a metodologia prisma considerando os passos do método para a esta pesquisa -->
+
+A pesquisa foi realizada com o auxílio de algumas ferramentas, como o Parsifal [@misc], que é um sistema online de apoio à revisão sistemática da literatura utilizando o método PRISMA. 
+
 
 
 ## Referências
