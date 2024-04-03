@@ -48,7 +48,7 @@ A pesquisa foi realizada com o auxílio de algumas ferramentas, como o Parsifal 
 ```{mermaid}
 %%| fig-width: 6.5
 graph LR;
-    A{Definição <br> objetivos} --> B[Definição <br> PICOC];
+    A{Definição <br> objetivos} --> B{Definição <br> PICOC};
     B --> C{Definição das Perguntas};
     C --> D{Definição de <br> palavras-chave e <br> sinônimos};
     D --> E{Definição de String e <br> busca nas bases};
@@ -60,6 +60,12 @@ graph LR;
 
 :::
 
+
+<!-- revisar -->
+
+A primeira etapa do processo foi a definição dos objetivos da pesquisa, que consiste em identificar o que se deseja alcançar com a revisão sistemática. Em seguida, foi definido o PICOC (Population, Intervention, Comparison, Outcome e Context) que são os elementos que compõem a pergunta de pesquisa. A partir do PICOC, foram definidas as perguntas de pesquisa que nortearão a revisão sistemática.
+
+A definição das palavras-chave e sinônimos foi realizada com o intuito de identificar os termos que serão utilizados na busca nas bases de dados. A definição da string de busca foi realizada a partir das palavras-chave e sinônimos definidos anteriormente. A busca nas bases de dados foi realizada a partir da string de busca definida anteriormente.
 
 
 ## Referências
