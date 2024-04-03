@@ -37,13 +37,26 @@ Para isso, este trabalho se propõe a desenvolver uma revisão sitemática da li
 
 Para alcançar os objetivos propostos, foram consideradas as seguintes perguntas de pesquisa: Como a distribuição de dividendos afeta os retornos? Como os fundos reagem a períodos de crise econômica? Como mudanças na economia afetam o desempenho? Como a popularidade é afetada pelo Youtube? Quais são as variáveis mais estudadas na literatura?
 
+<!-- adicionar aqui as conclusões -->
+
 ## Metodologia 
 
-Este trabalho utiliza os princípios do método PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses) que é uma metodologia criada para direcionar o desenvolvimento de revisões sistemáticas da literatura. Foi desenvolvido inicialmente para revisões de estudos clínicos, porém, tem sido adaptado para outras áreas do conhecimento [@page2021]. O método prescreve uma série de etapas que devem ser seguidas para garantir a qualidade e a transparência do processo de revisão da literatura.
+A pesquisa foi realizada com o auxílio de algumas ferramentas, como o Parsifal [@misc], que é um sistema online de apoio à revisão sistemática da literatura utilizando o método PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses) que é uma metodologia criada para direcionar o desenvolvimento de revisões sistemáticas da literatura [@page2021]. A figura 1 apresenta o fluxograma do processo que foi seguido para a realização do trabalho.
 
+```{mermaid}
+%%| fig-width: 6.5
+graph LR;
+    A{Definição <br> objetivos} --> B[Definição <br> PICOC];
+    B --> C{Definição das Perguntas};
+    C --> D{Definição de <br> palavras-chave e <br> sinônimos};
+    D --> E{Definição de String e <br> busca nas bases};
+    E --> F[Análise a partir dos <br> critérios de <br> inclusão];
+    F --> G[Leitura e <br> Análise de <br> Qualidade dos <br> artigos];
+    G --> H[(Extração de <br> dados)];
+```
 <!-- aqui elaborar mais a metodologia prisma considerando os passos do método para a esta pesquisa -->
 
-A pesquisa foi realizada com o auxílio de algumas ferramentas, como o Parsifal [@misc], que é um sistema online de apoio à revisão sistemática da literatura utilizando o método PRISMA. 
+
 
 
 
