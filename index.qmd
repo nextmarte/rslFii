@@ -41,7 +41,9 @@ Para alcançar os objetivos propostos, foram consideradas as seguintes perguntas
 
 ## Metodologia 
 
-A pesquisa foi realizada com o auxílio de algumas ferramentas, como o Parsifal [@misc], que é um sistema online de apoio à revisão sistemática da literatura utilizando o método PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses) que é uma metodologia criada para direcionar o desenvolvimento de revisões sistemáticas da literatura [@page2021]. A figura 1 apresenta o fluxograma do processo que foi seguido para a realização do trabalho.
+A pesquisa foi realizada com o auxílio de algumas ferramentas, como o Parsifal [@misc], que é um sistema online de apoio à revisão sistemática da literatura utilizando o método PRISMA (Preferred Reporting Items for Systematic reviews and Meta-Analyses) que é uma metodologia criada para direcionar o desenvolvimento de revisões sistemáticas da literatura [@page2021]. A @fig-processo-metodologico apresenta o fluxograma do processo que foi seguido para a realização do trabalho.
+
+::: {#fig-processo-metodologico fig-cap="Fluxograma do processo metodológico - Elaboração própria"}
 
 ```{mermaid}
 %%| fig-width: 6.5
@@ -56,7 +58,7 @@ graph LR;
 ```
 <!-- aqui elaborar mais a metodologia prisma considerando os passos do método para a esta pesquisa -->
 
-
+:::
 
 
 
