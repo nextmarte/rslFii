@@ -6,21 +6,21 @@ authors:
   - name: \fontsize{12pt}{14pt}\selectfont Ariel Levy
     affiliation: Universidade Federal Fluminense
 
+
+abstract: lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 bibliography: references.bib
-csl: abnt.csl
+csl: apa.csl
+linestretch: 1.5
+linkcolor: black
+urlcolor: black
+toc: true
+number-sections: true
 ---
 
 \thispagestyle{fancy}
 
-```{=tex}
-\hypersetup{
-    colorlinks=true,
-    linkcolor=black,
-    filecolor=black,      
-    urlcolor=black,
-    citecolor=black,
-}
-```
+
 ## Introdução
 
 O mercado de fundos de investimento imobiliário no Brasil nos últimos anos tem apresentado um crescimento notável, tanto em relação ao número de novos fundos listados quanto em relação ao número de investidores. Isso fica evidente ao se analisar os números presentes nos relatórios mensais da B3, que denotam uma tendência positiva principalmente a partir de 2016 [@b32023]. Apesar de ter um nome diferente no Brasil os FIIs possuem características similares aos REITs (Real Estate Investment Trusts) norte-americanos, que são fundos de investimento imobiliário negociados em bolsa de valores, além disso, este tipo de instrumento financeiro é bastante popular em diversos países ao redor do mundo desde de sua criação em 1960 nos Estados Unidos através do REIT Act, assinado pelo presidente Dwight D. Eisenhower [@ahistor2012]. 
@@ -55,6 +55,7 @@ graph LR;
     E --> F[Análise a partir dos <br> critérios de <br> inclusão];
     F --> G[Leitura e <br> Análise de <br> Qualidade dos <br> artigos];
     G --> H[(Extração de <br> dados)];
+
 ```
 <!-- aqui elaborar mais a metodologia prisma considerando os passos do método para a esta pesquisa -->
 
