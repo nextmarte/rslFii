@@ -63,9 +63,65 @@ graph LR;
 
 <!-- revisar -->
 
-A primeira etapa do processo foi a definição dos objetivos da pesquisa, que consiste em identificar o que se deseja alcançar com a revisão sistemática. Em seguida, foi definido o PICOC (Population, Intervention, Comparison, Outcome e Context) que são os elementos que compõem a pergunta de pesquisa. A partir do PICOC, foram definidas as perguntas de pesquisa que nortearão a revisão sistemática.
+A primeira etapa do processo foi a definição dos objetivos da pesquisa. Em seguida, foi definido o PICOC (Population, Intervention, Comparison, Outcome e Context) que são os elementos que compõem a pergunta de pesquisa. A partir do PICOC, foram definidas as perguntas de pesquisa que nortearam a revisão sistemática.
 
-A definição das palavras-chave e sinônimos foi realizada com o intuito de identificar os termos que serão utilizados na busca nas bases de dados. A definição da string de busca foi realizada a partir das palavras-chave e sinônimos definidos anteriormente. A busca nas bases de dados foi realizada a partir da string de busca definida anteriormente.
+As palavras-chave e sinônimos foram definidos para identificar os termos usados na pesquisa nas bases de dados. A partir destes, a string de busca foi construída. Com ela, realizamos a pesquisa nas bases de dados.
+
+### PICOC e perguntas de pesquisa
+
+Nesta etapa cada um dos elementos do PICOC foi definido conforme a seguir: 
+
+- **Population**: Fundos de investimento imobiliário
+- **Intervention**: Análise dos indicadores de desempenho
+- **Comparison**: Comparação entre as variáveis que podem influenciar o desempenho dos fundos
+- **Outcome**: Entender quais são as variáveis que influenciam o desempenho dos fundos
+- **Context**: Mercado de fundos de investimento imobiliário
+
+A partir destes elementos, foram definidas as perguntas de pesquisa que nortearam a revisão sistemática e que foram utilizadas para a construção da string de busca.
+
+1. Como a distribuição de dividendos afeta os retornos?
+2. Como os fundos reagem a períodos de crise econômica?
+3. Como mudanças na economia afetam o desempenho?
+4. Como os influencidadores do Youtube afetam a popularidade dos fundos?
+5. Quais são as variáveis mais estudadas na literatura?
+
+### Definição de palavras-chave e sinônimos
+
+| Keyword                      | Synonyms                                                                 |
+|------------------------------|--------------------------------------------------------------------------|
+| Comparison between variables | Correlation, Endogenous factors, Exogenous factors, Inference, Relationship |
+| Growth                       | Changes, Crescimento, Decline, Fall, Rise                               |
+| Performance                  | Yield, returns                                                           |
+| Real state investiment funds | FII, Fundos de investimento imobiliário, REITS, Real estate funds, Real estate investment trusts, Real state investment funds |
+| Social media                 | Instagram, Twitter, Youtube, facebook                                   |
+
+Foram criadas as seguintes strings de busca para cada base de dados:
+
+Scopus e WOS
+
+("Real state investiment funds" OR "FII" OR "Fundos de investimento imobiliário" OR "REITS" OR "Real estate funds" OR "Real estate investment trusts" OR "Real state investment funds") AND ("Performance" OR "Yield" OR "returns" OR "Social media" OR "Instagram" OR "Twitter" OR "Youtube" OR "facebook") AND ("Comparison between variables" OR "Correlation" OR "Endogenous factors" OR "Exogenous factors" OR "Inference" OR "Relationship") AND ("Growth" OR "Changes" OR "Crescimento" OR "Decline" OR "Fall" OR "Rise")
+
+
+
+CAPES:
+
+("Fundos de investimento imobiliário" OU "FII" OU "Fundos de investimento imobiliário" OU "REITS" OU "Fundos imobiliários" OU "Trustes de investimento imobiliário" OU "Fundos de investimento imobiliário") E ("Desempenho" OU "Rendimento" OU "retornos" OU "Mídias sociais" OU "Instagram" OU "Twitter" OU "Youtube" OU "facebook") 
+
+### Critérios de inclusão
+
+
+
+### Critérios de exclusão
+
+### Análise de qualidade dos artigos
+
+### Extração de dados
+
+## Resultados
+
+## Discussão
+
+## Conclusão
 
 
 ## Referências
